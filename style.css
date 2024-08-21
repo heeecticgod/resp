@@ -1,0 +1,63 @@
+.navbar{
+    background-color: rgb(111, 105, 105);
+}
+.icon{
+    color: aliceblue;
+}
+.one{
+    background-color: rgb(202, 24, 24);
+    color: aliceblue;
+}
+.head
+{
+    text-decoration: underline;
+}
+.card-text{
+    font-family: "Gupter", serif;
+}
+.mm{
+    text-decoration: underline;
+}
+.bttn
+{
+background-color: red;
+    text-decoration: none;
+    color: aliceblue;
+    border: 2px solid black;
+
+
+}
+.aone{
+    background-color: red;
+    padding: 0px 10px;
+    border-radius: 20px;
+    color: aliceblue;
+}
+.card-img-top{
+    border: 2px solid black;
+}
+.hone
+{font-size: 20px;
+    text-decoration: underline;
+}
+/* .card-img-top{
+    border: 1px solid black;
+} */
+.card-img-top{
+    transition: transform 0.3s ease; 
+}
+
+.card-img-top:hover {
+    transform: scale(1.05); 
+}
+.btttn{
+background-color: red;
+color: aliceblue;
+padding: 0 10px;
+border: 2px solid grey;
+
+}
+.wallp{
+    width: 500px;
+    height: 500px;
+}
